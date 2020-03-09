@@ -10,6 +10,15 @@ This solution reduces the number of meeting rooms being booked but is actually n
 Hybrid application running on an iOS/ Android platform that portrays the flight information through a QR code scanning. Each flight ticket has a unique QR code. Passenger can scan the code and information of their flights will be retrieved without having to look at the Display in the Airport.
 
 # Child Friendly App
-```
+A super mobile hybrid application for the youngest travellers before, during and after their flight. This empowers children to be involved in the holiday planning process. Education games and activities is included to build a love of travel from a young age. Shaping the children to be independent.
 
-```
+# Web Sentiment Analysis Dashboard
+Build a Dashboard on Web app for Public Affairs to provide at-a-glance comphrehension of Facebook users' impression on Singapore Airlines's branding through Singapore Airlines Facebook page.
+
+# Sky Dining
+
+
+# Surprise Holiday
+
+
+
