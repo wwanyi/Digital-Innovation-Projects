@@ -1,4 +1,4 @@
-# Digital-Innovation-Projects
+# < Digital-Innovation-Projects >
 KrisLab in Singapore Airlines is a space where employees can submit their ideas and develop them into prototypes they can call their own. These prototype are used and explored by the KrisLab team as digital initiatives. Below are some of the projects which I have contributed to. Idea may or may not gets adopted after the prototyping stage.
 
 # IoT Devices for Room Usage
