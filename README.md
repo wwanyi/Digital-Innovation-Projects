@@ -3,7 +3,9 @@ KrisLab in Singapore Airlines is a space where employees can submit their ideas 
 
 ```
 # IoT Devices for Room Usage
-DIY ultrasonic motion sensor that detects human motion in a room/ place for counting people entering/ leaving their room. Sensor connects straight to the private IoT cloud platform. User can book/ monitor vacancies on a real-time status and exporting data for analytics. This solution reduces the number of meeting rooms being booked but is actually not in use.
+DIY ultrasonic motion sensor that detects human motion in a room/ place for counting people entering/ leaving their room. Sensor connects straight to the private IoT cloud platform. 
+User can book/ monitor vacancies on a real-time status and exporting data for analytics. 
+This solution reduces the number of meeting rooms being booked but is actually not in use.
 ```
 # Flight Information Display System
 ```
