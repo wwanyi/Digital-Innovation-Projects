@@ -23,3 +23,6 @@ Amenities Ordering Android App increase the efficiency level between the cabin c
 
 ### Surprise Holiday
 A Web App that could help Krisflyer members as well as new potential customers to package holidays for them, the holidays will be a surprise to the customers. Before any purchase is made, the prototype will ask some questions to find out who they are and what they like, when they can travel. After which, the customer can pick a region that they want to travel. The prototype will generate a list of pre-planned itineraries and the passenger will only know where they are going to a few days before departure. It is built using NodeJS.
+
+### SharePoint Notion Funnel Integration
+Sending data from SharePoint when user send in their data to Notion through python application without needing to manually key in on both platforms. 
